@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Web Template</title>
+		<link href="css/main.css" rel="stylesheet" type="text/css">
+	</head>
+	<body><h1>Bridget loves cats</h1>
+	<section><h2>Ode to Berkeley</h2>
+		<p>I started out my life with a family dog, I spent most of my waking hours with him. His name was Sandy, a gift for one of my older brothers but quickly became my dog. Shortly after Sandy passed away, with my giant broken heart crumbling to pieces, my sister showed up from Florida, with her two orange cats Ritty and Rooty. To my delight Ritty was pregnant and I was going to get a cat! Broken heart healed. I have been a cat lover since the day my first kitty "Spooky" came into this world. I have loved ten more cats since that day and have enjoyed the love and affection a cat can give. </p>
+		<p>Unfortunately number 10 has to go to the heavens next week and it has been one of the hardest decisions in my life. His name is Berkeley and he came into my life 3 years ago when I was greiving the loss of number 8, Catcatboy, the true love of my life. Berkeley is only four years old and it is extremely hard to euthanize him at such a young age. He has suffered with a bad infection in his hind leg for almost a year now and the diagnosis is amputate or euthanize. I am not someone who believes in amputation of an animals limb so I have to accept that it's time to say goodbye to the sweet little boy, who healed my last broken heart. </p>
+		<p> It is a sad time but I choose to remember all the fun and loving times I had with him over the past 3 years. He loved chasing our other cat Sunny throughout the house, chewing (and consuming at times) pillows, foam exercise mats, toilet paper, and anything else he could get his little fangs on. Beccause he is so loved, he has many "pet" names: little, fang fang, grandpa, liquid man, Berk B, the list could go on. I have chosen to send him off to the heavens on a beautiful day (next Tuesday) in his most blissful place, the sunny upper deck of our home. This is where he would spend his days basking in the sunlight and falling off to sleep in the shade. I think it will be a special moment. Sorry if this got a little heavy but you picked a subject that just happened to fall in line with what's happening in my life right now.</p>
+		<p>So my argument is cats, like dogs, love us unconditionally but cats have a softer gentler kind of love. They aren't jumping up on you with their dirty muddy paws and licking you with their giant drooling tongue, that just licked the poop that they saw on their walk or barking at everything that moves. Cats live a much quieter life and are clean and soft when they jump up on you. I would say that even though I am pro cats I do love dogs and all other animals. I believe we are blessed to have these incredible little creatures in our lives.</p>
+	</section>
+	<section>	
+		<h3>Cat Family Images</h3>
+		    		     
+		    		     <img src="images/Berkeley_02.jpeg" width="340" height="560" alt="Picture of a tabby cat">
+		    		     <img src="images/Berkeley_03.jpeg" width="340" height="560" alt="Picture of a tabby cat">
+		    		     <img src="images/Berkeley_04.jpeg" width="340" height="560" alt="Picture of a tabby cat">
+		    		     <img src="images/Berkeley_05.jpeg" width="340" height="560" alt="Picture of a tabby cat">
+		    		     <img src="images/CatCat_01.jpeg" width="340" height="560" alt="Picture of a orange cat">
+		    		     <img src="images/Sunny_06.jpeg" width="340" height="560" alt="Picture of a white cat">
+	</section>
+	</body>
+
+</html>
